@@ -1,6 +1,9 @@
 <?php
 require 'php-files/connect.php';
 //error_reporting(0);// skip errors from page
+
+header('Content-type: text/plain; charset=utf-8');
+
 $method = $_SERVER['REQUEST_METHOD'];
 
 $dday = sanitize($_GET['date']);
