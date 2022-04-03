@@ -61,5 +61,3 @@ if (isset($_POST['pass']) && isset($_POST['user'])) {
 	
 </body>
 </html>
-
-<?php
