@@ -43,7 +43,8 @@
 			указанную в поле/селекторе дату.
 		</p>
 
-		<a href="entrance.php" class="goto">перейти к просмотру решения</a>
+		<a href="entrance.php" class="goto">перейти к авторизации</a>
+		<a href="api.php?date=03/03/2022" class="goto">перейти к API</a>
 	</div>
 
 </body>
